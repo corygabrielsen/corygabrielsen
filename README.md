@@ -2,13 +2,13 @@
 
 I'm Cory Gabrielsen. I work on crypto and AI. I live in Los Angeles.
 
-I co-invented [the world's first autonomous laser weeding robot](https://carbonrobotics.com/laserweeder) by Carbon Robotics, implementing the both the original laser shooting algorithm and the original self-driving algorithm—[patent](https://patents.google.com/patent/WO2021055485A1/en). Organic robotic laser weeding will 100% replace herbicides in your lifetime.
+I co-invented [the world's first autonomous laser weeding robot](https://carbonrobotics.com/laserweeder) by Carbon Robotics. I designed and implemented both the original laser shooting algorithm and the original self-driving algorithm—[patent](https://patents.google.com/patent/WO2021055485A1/en). Laser weeding is organic and replaces herbicides.
 
-I co-founded [Ethereum Follow Protocol](https://efp.app), an onchain social graph protocol for Ethereum accounts that lets users create, manage, and share follow lists onchain. I designed the protocol and implemented the original smart contracts, indexer, and frontend. These ideas will ultimately dethrone dystopic, centralized social media.
+I co-founded [Ethereum Follow Protocol](https://efp.app), an onchain social graph protocol for Ethereum accounts that lets users create, manage, and share follow lists onchain. I designed the protocol and implemented the original smart contracts, indexer, and frontend.
 
 I founded [OpenAvatar](https://openavatar.tech), an onchain avatar protocol on Ethereum where users create and customize their own Avatars as NFTs on Ethereum. Avatars are stored and rendered 100% onchain.
 
-I worked on machine learning at Amazon for several years where I received a peer-nominated Recognition Award in a 1,000-person engineering org. My creative vision evolved Amazon's supply chain forecasting system from an uninterpretable black box into an elegantly testable scientific framework. Everyone really liked that.
+I worked on machine learning at Amazon where I received a peer-nominated Recognition Award in a 1,000-person engineering org. My creative vision evolved Amazon's supply chain forecasting system from an uninterpretable black box into an elegantly testable scientific framework. Everyone really liked that.
 
 I worked on machine learning at Opanga Networks where we invented [1](https://patents.google.com/patent/WO2015017716A1/en) techniques for predicting user consumption behavior and pre-downloading content to their phone for a zero-latency viewing experience. Also [2](https://patents.google.com/patent/US9906595B2).
 
