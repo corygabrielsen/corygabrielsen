@@ -10,7 +10,7 @@ I founded [OpenAvatar](https://openavatar.tech), an onchain avatar protocol on E
 
 I worked on machine learning at Amazon for several years where I received a peer-nominated Recognition Award in a 1,000-person engineering org. My creative vision evolved Amazon's supply chain forecasting system from an uninterpretable black box into an elegantly testable scientific framework. Everyone really liked that.
 
-I worked on machine learning at Opanga Networks for a couple years, implementing and patenting [1](https://patents.google.com/patent/WO2015017716A1/en) techniques for predict what content a user was going to watch and pre-downloading it to their phone for a zero-latency experience. Also [2](https://patents.google.com/patent/US9906595B2).
+I worked on machine learning at Opanga Networks where we invented [1](https://patents.google.com/patent/WO2015017716A1/en) techniques for predicting user consumption behavior and pre-downloading content to their phone for a zero-latency viewing experience. Also [2](https://patents.google.com/patent/US9906595B2).
 
 I have a Bachelors of Science in Mathematics and Computer Science from The University of Washington.
 
